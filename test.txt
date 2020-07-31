@@ -1,2 +1,3 @@
 master
 testbranch
+git merge testbranch
